@@ -1,0 +1,21 @@
+*{
+    margin: 0; padding: auto; position: relative;
+}
+
+ul li{
+    list-style: none;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    padding: 10px 15px;
+    margin-left: auto;
+}
+
+ul li a{
+    text-decoration: none;
+    text-align: right;
+}
+
+.brand{
+    margin-right: px;
+}
